@@ -6,6 +6,11 @@ An interactive investment portfolio analysis project built using Tableau to expl
 
 **[View the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/aditya.raj2864/viz/Investment_Portfolio_Analysis/Dashboard1?publish=yes)**
 
+## 📷 Dashboard Preview
+
+![Investment Portfolio Analysis Dashboard](Dashboard%201.png)
+
+
 ## 🎯 Project Objective
 
 The objective of this project is to analyze investment portfolio data and present key financial insights through interactive visualizations and performance indicators.
