@@ -58,9 +58,6 @@ The objective of this project is to analyze investment portfolio data and presen
 
 Financial Analysis · Portfolio Analysis · Data Visualization · KPI Reporting · Data Interpretation · Dashboard Design · SQL Fundamentals
 
-## 📷 Dashboard Preview
-
-*Add a screenshot of your completed Tableau dashboard here.*
 
 ## ⚠️ Disclaimer
 
